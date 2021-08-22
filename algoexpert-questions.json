@@ -1,0 +1,4914 @@
+{
+    "Problems": [
+        {
+            "uid": "a*-algorithm",
+            "name": "A* Algorithm",
+            "category": "Famous Algorithms",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 504
+            },
+            "submissionStatistics": {
+                "correctCount": 881,
+                "failureCount": 572
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "airport-connections",
+            "name": "Airport Connections",
+            "category": "Graphs",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-05-04T00:00:00Z",
+                "number": 999
+            },
+            "submissionStatistics": {
+                "correctCount": 1934,
+                "failureCount": 1075
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "all-kinds-of-node-depths",
+            "name": "All Kinds Of Node Depths",
+            "category": "Binary Trees",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 359
+            },
+            "submissionStatistics": {
+                "correctCount": 3714,
+                "failureCount": 1411
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "ambiguous-measurements",
+            "name": "Ambiguous Measurements",
+            "category": "Recursion",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 620
+            },
+            "submissionStatistics": {
+                "correctCount": 1033,
+                "failureCount": 505
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "apartment-hunting",
+            "name": "Apartment Hunting",
+            "category": "Arrays",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-09-01T00:00:00Z",
+                "number": 464
+            },
+            "submissionStatistics": {
+                "correctCount": 5488,
+                "failureCount": 2789
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "array-of-products",
+            "name": "Array Of Products",
+            "category": "Arrays",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 471
+            },
+            "submissionStatistics": {
+                "correctCount": 20945,
+                "failureCount": 11819
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "bst-construction",
+            "name": "BST Construction",
+            "category": "Binary Search Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 402
+            },
+            "submissionStatistics": {
+                "correctCount": 14930,
+                "failureCount": 13908
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "bst-traversal",
+            "name": "BST Traversal",
+            "category": "Binary Search Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 404
+            },
+            "submissionStatistics": {
+                "correctCount": 20980,
+                "failureCount": 8472
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "balanced-brackets",
+            "name": "Balanced Brackets",
+            "category": "Stacks",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 153
+            },
+            "submissionStatistics": {
+                "correctCount": 16544,
+                "failureCount": 7746
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "binary-search",
+            "name": "Binary Search",
+            "category": "Searching",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 751
+            },
+            "submissionStatistics": {
+                "correctCount": 39520,
+                "failureCount": 18646
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "binary-tree-diameter",
+            "name": "Binary Tree Diameter",
+            "category": "Binary Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 354
+            },
+            "submissionStatistics": {
+                "correctCount": 10479,
+                "failureCount": 5905
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "boggle-board",
+            "name": "Boggle Board",
+            "category": "Graphs",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 105
+            },
+            "submissionStatistics": {
+                "correctCount": 4624,
+                "failureCount": 2508
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "branch-sums",
+            "name": "Branch Sums",
+            "category": "Binary Trees",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-11-21T00:00:00Z",
+                "number": 351
+            },
+            "submissionStatistics": {
+                "correctCount": 40153,
+                "failureCount": 19819
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "breadth-first-search",
+            "name": "Breadth-first Search",
+            "category": "Graphs",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 103
+            },
+            "submissionStatistics": {
+                "correctCount": 21001,
+                "failureCount": 8139
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "bubble-sort",
+            "name": "Bubble Sort",
+            "category": "Sorting",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 51
+            },
+            "submissionStatistics": {
+                "correctCount": 35765,
+                "failureCount": 14333
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "caesar-cipher-encryptor",
+            "name": "Caesar Cipher Encryptor",
+            "category": "Strings",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 2
+            },
+            "submissionStatistics": {
+                "correctCount": 31926,
+                "failureCount": 15050
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "calendar-matching",
+            "name": "Calendar Matching",
+            "category": "Arrays",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-09-13T00:00:00Z",
+                "number": 465
+            },
+            "submissionStatistics": {
+                "correctCount": 3426,
+                "failureCount": 2085
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "class-photos",
+            "name": "Class Photos",
+            "category": "Greedy Algorithms",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-08T00:00:00Z",
+                "number": 554
+            },
+            "submissionStatistics": {
+                "correctCount": 14538,
+                "failureCount": 8396
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "compare-leaf-traversal",
+            "name": "Compare Leaf Traversal",
+            "category": "Binary Trees",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-05-17T00:00:00Z",
+                "number": 363
+            },
+            "submissionStatistics": {
+                "correctCount": 1072,
+                "failureCount": 345
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "continuous-median",
+            "name": "Continuous Median",
+            "category": "Heaps",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 302
+            },
+            "submissionStatistics": {
+                "correctCount": 5181,
+                "failureCount": 2548
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "count-inversions",
+            "name": "Count Inversions",
+            "category": "Sorting",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 58
+            },
+            "submissionStatistics": {
+                "correctCount": 1034,
+                "failureCount": 456
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "cycle-in-graph",
+            "name": "Cycle In Graph",
+            "category": "Graphs",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-19T00:00:00Z",
+                "number": 109
+            },
+            "submissionStatistics": {
+                "correctCount": 6689,
+                "failureCount": 3789
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "depth-first-search",
+            "name": "Depth-first Search",
+            "category": "Graphs",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 101
+            },
+            "submissionStatistics": {
+                "correctCount": 38191,
+                "failureCount": 15618
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "detect-arbitrage",
+            "name": "Detect Arbitrage",
+            "category": "Graphs",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 110
+            },
+            "submissionStatistics": {
+                "correctCount": 539,
+                "failureCount": 226
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "dijkstra's-algorithm",
+            "name": "Dijkstra's Algorithm",
+            "category": "Famous Algorithms",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 503
+            },
+            "submissionStatistics": {
+                "correctCount": 3776,
+                "failureCount": 2139
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "disk-stacking",
+            "name": "Disk Stacking",
+            "category": "Dynamic Programming",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 660
+            },
+            "submissionStatistics": {
+                "correctCount": 5413,
+                "failureCount": 2648
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "find-closest-value-in-bst",
+            "name": "Find Closest Value In BST",
+            "category": "Binary Search Trees",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 401
+            },
+            "submissionStatistics": {
+                "correctCount": 50209,
+                "failureCount": 30776
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "find-kth-largest-value-in-bst",
+            "name": "Find Kth Largest Value In BST",
+            "category": "Binary Search Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-20T00:00:00Z",
+                "number": 408
+            },
+            "submissionStatistics": {
+                "correctCount": 10258,
+                "failureCount": 4911
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "find-loop",
+            "name": "Find Loop",
+            "category": "Linked Lists",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 255
+            },
+            "submissionStatistics": {
+                "correctCount": 10934,
+                "failureCount": 4216
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "find-nodes-distance-k",
+            "name": "Find Nodes Distance K",
+            "category": "Binary Trees",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-31T00:00:00Z",
+                "number": 361
+            },
+            "submissionStatistics": {
+                "correctCount": 3252,
+                "failureCount": 1758
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "find-successor",
+            "name": "Find Successor",
+            "category": "Binary Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-12-23T00:00:00Z",
+                "number": 360
+            },
+            "submissionStatistics": {
+                "correctCount": 10476,
+                "failureCount": 6061
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "find-three-largest-numbers",
+            "name": "Find Three Largest Numbers",
+            "category": "Searching",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 752
+            },
+            "submissionStatistics": {
+                "correctCount": 32625,
+                "failureCount": 15032
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "first-duplicate-value",
+            "name": "First Duplicate Value",
+            "category": "Arrays",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-12-23T00:00:00Z",
+                "number": 473
+            },
+            "submissionStatistics": {
+                "correctCount": 20336,
+                "failureCount": 11358
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "first-non-repeating-character",
+            "name": "First Non-Repeating Character",
+            "category": "Strings",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 15
+            },
+            "submissionStatistics": {
+                "correctCount": 13059,
+                "failureCount": 6148
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "flatten-binary-tree",
+            "name": "Flatten Binary Tree",
+            "category": "Binary Trees",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-03-29T00:00:00Z",
+                "number": 357
+            },
+            "submissionStatistics": {
+                "correctCount": 5112,
+                "failureCount": 1972
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "four-number-sum",
+            "name": "Four Number Sum",
+            "category": "Arrays",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 453
+            },
+            "submissionStatistics": {
+                "correctCount": 13640,
+                "failureCount": 6433
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "generate-div-tags",
+            "name": "Generate Div Tags",
+            "category": "Recursion",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-03-02T00:00:00Z",
+                "number": 619
+            },
+            "submissionStatistics": {
+                "correctCount": 1801,
+                "failureCount": 837
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "generate-document",
+            "name": "Generate Document",
+            "category": "Strings",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-03-02T00:00:00Z",
+                "number": 14
+            },
+            "submissionStatistics": {
+                "correctCount": 13224,
+                "failureCount": 6977
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "group-anagrams",
+            "name": "Group Anagrams",
+            "category": "Strings",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-11-21T00:00:00Z",
+                "number": 7
+            },
+            "submissionStatistics": {
+                "correctCount": 16164,
+                "failureCount": 6557
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "heap-sort",
+            "name": "Heap Sort",
+            "category": "Sorting",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 56
+            },
+            "submissionStatistics": {
+                "correctCount": 5347,
+                "failureCount": 2215
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "height-balanced-binary-tree",
+            "name": "Height Balanced Binary Tree",
+            "category": "Binary Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-20T00:00:00Z",
+                "number": 362
+            },
+            "submissionStatistics": {
+                "correctCount": 6498,
+                "failureCount": 3110
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "index-equals-value",
+            "name": "Index Equals Value",
+            "category": "Searching",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 757
+            },
+            "submissionStatistics": {
+                "correctCount": 4498,
+                "failureCount": 2448
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "insertion-sort",
+            "name": "Insertion Sort",
+            "category": "Sorting",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 52
+            },
+            "submissionStatistics": {
+                "correctCount": 28432,
+                "failureCount": 11056
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "interweaving-strings",
+            "name": "Interweaving Strings",
+            "category": "Recursion",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-11-21T00:00:00Z",
+                "number": 615
+            },
+            "submissionStatistics": {
+                "correctCount": 5819,
+                "failureCount": 2860
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "invert-binary-tree",
+            "name": "Invert Binary Tree",
+            "category": "Binary Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 353
+            },
+            "submissionStatistics": {
+                "correctCount": 25516,
+                "failureCount": 9169
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "iterative-in-order-traversal",
+            "name": "Iterative In-order Traversal",
+            "category": "Binary Trees",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 356
+            },
+            "submissionStatistics": {
+                "correctCount": 5438,
+                "failureCount": 1883
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "kadane's-algorithm",
+            "name": "Kadane's Algorithm",
+            "category": "Famous Algorithms",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 501
+            },
+            "submissionStatistics": {
+                "correctCount": 18547,
+                "failureCount": 7558
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "knapsack-problem",
+            "name": "Knapsack Problem",
+            "category": "Dynamic Programming",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 659
+            },
+            "submissionStatistics": {
+                "correctCount": 7032,
+                "failureCount": 3873
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "knuth-morris-pratt-algorithm",
+            "name": "Knuth—Morris—Pratt Algorithm",
+            "category": "Famous Algorithms",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2018-10-20T00:00:00Z",
+                "number": 502
+            },
+            "submissionStatistics": {
+                "correctCount": 3227,
+                "failureCount": 1228
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "lru-cache",
+            "name": "LRU Cache",
+            "category": "Linked Lists",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 256
+            },
+            "submissionStatistics": {
+                "correctCount": 4090,
+                "failureCount": 2098
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "laptop-rentals",
+            "name": "Laptop Rentals",
+            "category": "Heaps",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 305
+            },
+            "submissionStatistics": {
+                "correctCount": 1971,
+                "failureCount": 866
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "largest-range",
+            "name": "Largest Range",
+            "category": "Arrays",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 460
+            },
+            "submissionStatistics": {
+                "correctCount": 15611,
+                "failureCount": 9139
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "largest-rectangle-under-skyline",
+            "name": "Largest Rectangle Under Skyline",
+            "category": "Stacks",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 156
+            },
+            "submissionStatistics": {
+                "correctCount": 1609,
+                "failureCount": 758
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "levenshtein-distance",
+            "name": "Levenshtein Distance",
+            "category": "Dynamic Programming",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 655
+            },
+            "submissionStatistics": {
+                "correctCount": 14458,
+                "failureCount": 6783
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "line-through-points",
+            "name": "Line Through Points",
+            "category": "Arrays",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-03-02T00:00:00Z",
+                "number": 481
+            },
+            "submissionStatistics": {
+                "correctCount": 1238,
+                "failureCount": 657
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "linked-list-construction",
+            "name": "Linked List Construction",
+            "category": "Linked Lists",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2018-10-20T00:00:00Z",
+                "number": 251
+            },
+            "submissionStatistics": {
+                "correctCount": 9072,
+                "failureCount": 8388
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "linked-list-palindrome",
+            "name": "Linked List Palindrome",
+            "category": "Linked Lists",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 261
+            },
+            "submissionStatistics": {
+                "correctCount": 3153,
+                "failureCount": 1826
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "longest-balanced-substring",
+            "name": "Longest Balanced Substring",
+            "category": "Strings",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 10
+            },
+            "submissionStatistics": {
+                "correctCount": 2216,
+                "failureCount": 1463
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "longest-common-subsequence",
+            "name": "Longest Common Subsequence",
+            "category": "Dynamic Programming",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 656
+            },
+            "submissionStatistics": {
+                "correctCount": 8044,
+                "failureCount": 3721
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "longest-increasing-subsequence",
+            "name": "Longest Increasing Subsequence",
+            "category": "Dynamic Programming",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 663
+            },
+            "submissionStatistics": {
+                "correctCount": 3956,
+                "failureCount": 1769
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "longest-palindromic-substring",
+            "name": "Longest Palindromic Substring",
+            "category": "Strings",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 3
+            },
+            "submissionStatistics": {
+                "correctCount": 17698,
+                "failureCount": 8176
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "longest-peak",
+            "name": "Longest Peak",
+            "category": "Arrays",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-03-29T00:00:00Z",
+                "number": 469
+            },
+            "submissionStatistics": {
+                "correctCount": 24995,
+                "failureCount": 13854
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "longest-string-chain",
+            "name": "Longest String Chain",
+            "category": "Dynamic Programming",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-11-21T00:00:00Z",
+                "number": 665
+            },
+            "submissionStatistics": {
+                "correctCount": 2567,
+                "failureCount": 1070
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "longest-substring-without-duplication",
+            "name": "Longest Substring Without Duplication",
+            "category": "Strings",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 4
+            },
+            "submissionStatistics": {
+                "correctCount": 9570,
+                "failureCount": 4319
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "lowest-common-manager",
+            "name": "Lowest Common Manager",
+            "category": "Recursion",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-05-04T00:00:00Z",
+                "number": 613
+            },
+            "submissionStatistics": {
+                "correctCount": 5628,
+                "failureCount": 2592
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "max-path-sum-in-binary-tree",
+            "name": "Max Path Sum In Binary Tree",
+            "category": "Binary Trees",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2018-10-20T00:00:00Z",
+                "number": 355
+            },
+            "submissionStatistics": {
+                "correctCount": 8848,
+                "failureCount": 4617
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "max-profit-with-k-transactions",
+            "name": "Max Profit With K Transactions",
+            "category": "Dynamic Programming",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 661
+            },
+            "submissionStatistics": {
+                "correctCount": 6386,
+                "failureCount": 8029
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "max-subset-sum-no-adjacent",
+            "name": "Max Subset Sum No Adjacent",
+            "category": "Dynamic Programming",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 651
+            },
+            "submissionStatistics": {
+                "correctCount": 25290,
+                "failureCount": 11577
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "max-sum-increasing-subsequence",
+            "name": "Max Sum Increasing Subsequence",
+            "category": "Dynamic Programming",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 654
+            },
+            "submissionStatistics": {
+                "correctCount": 8165,
+                "failureCount": 4077
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "maximize-expression",
+            "name": "Maximize Expression",
+            "category": "Dynamic Programming",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-14T00:00:00Z",
+                "number": 669
+            },
+            "submissionStatistics": {
+                "correctCount": 1538,
+                "failureCount": 645
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "maximum-sum-submatrix",
+            "name": "Maximum Sum Submatrix",
+            "category": "Dynamic Programming",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 668
+            },
+            "submissionStatistics": {
+                "correctCount": 1603,
+                "failureCount": 779
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "merge-linked-lists",
+            "name": "Merge Linked Lists",
+            "category": "Linked Lists",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-11-21T00:00:00Z",
+                "number": 258
+            },
+            "submissionStatistics": {
+                "correctCount": 9771,
+                "failureCount": 4174
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "merge-overlapping-intervals",
+            "name": "Merge Overlapping Intervals",
+            "category": "Arrays",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 476
+            },
+            "submissionStatistics": {
+                "correctCount": 9124,
+                "failureCount": 4627
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "merge-sort",
+            "name": "Merge Sort",
+            "category": "Sorting",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 54
+            },
+            "submissionStatistics": {
+                "correctCount": 8488,
+                "failureCount": 3553
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "merge-sorted-arrays",
+            "name": "Merge Sorted Arrays",
+            "category": "Heaps",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 303
+            },
+            "submissionStatistics": {
+                "correctCount": 4576,
+                "failureCount": 1773
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "min-heap-construction",
+            "name": "Min Heap Construction",
+            "category": "Heaps",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 301
+            },
+            "submissionStatistics": {
+                "correctCount": 9806,
+                "failureCount": 5427
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "min-height-bst",
+            "name": "Min Height BST",
+            "category": "Binary Search Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 406
+            },
+            "submissionStatistics": {
+                "correctCount": 17965,
+                "failureCount": 7681
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "min-max-stack-construction",
+            "name": "Min Max Stack Construction",
+            "category": "Stacks",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2018-10-20T00:00:00Z",
+                "number": 152
+            },
+            "submissionStatistics": {
+                "correctCount": 11984,
+                "failureCount": 5244
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "min-number-of-coins-for-change",
+            "name": "Min Number Of Coins For Change",
+            "category": "Dynamic Programming",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 653
+            },
+            "submissionStatistics": {
+                "correctCount": 17835,
+                "failureCount": 9690
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "min-number-of-jumps",
+            "name": "Min Number Of Jumps",
+            "category": "Dynamic Programming",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 657
+            },
+            "submissionStatistics": {
+                "correctCount": 10246,
+                "failureCount": 4228
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "min-rewards",
+            "name": "Min Rewards",
+            "category": "Arrays",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-05-04T00:00:00Z",
+                "number": 462
+            },
+            "submissionStatistics": {
+                "correctCount": 10923,
+                "failureCount": 5234
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "minimum-area-rectangle",
+            "name": "Minimum Area Rectangle",
+            "category": "Arrays",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-31T00:00:00Z",
+                "number": 475
+            },
+            "submissionStatistics": {
+                "correctCount": 1524,
+                "failureCount": 756
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "minimum-characters-for-words",
+            "name": "Minimum Characters For Words",
+            "category": "Strings",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-05-17T00:00:00Z",
+                "number": 16
+            },
+            "submissionStatistics": {
+                "correctCount": 3220,
+                "failureCount": 1079
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "minimum-passes-of-matrix",
+            "name": "Minimum Passes Of Matrix",
+            "category": "Graphs",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-05-17T00:00:00Z",
+                "number": 112
+            },
+            "submissionStatistics": {
+                "correctCount": 2550,
+                "failureCount": 1012
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "minimum-waiting-time",
+            "name": "Minimum Waiting Time",
+            "category": "Greedy Algorithms",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-19T00:00:00Z",
+                "number": 551
+            },
+            "submissionStatistics": {
+                "correctCount": 17352,
+                "failureCount": 9248
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "monotonic-array",
+            "name": "Monotonic Array",
+            "category": "Arrays",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-03-29T00:00:00Z",
+                "number": 467
+            },
+            "submissionStatistics": {
+                "correctCount": 34002,
+                "failureCount": 17053
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "move-element-to-end",
+            "name": "Move Element To End",
+            "category": "Arrays",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-11-21T00:00:00Z",
+                "number": 466
+            },
+            "submissionStatistics": {
+                "correctCount": 38192,
+                "failureCount": 16677
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "multi-string-search",
+            "name": "Multi String Search",
+            "category": "Tries",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 202
+            },
+            "submissionStatistics": {
+                "correctCount": 5445,
+                "failureCount": 2334
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "next-greater-element",
+            "name": "Next Greater Element",
+            "category": "Stacks",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-05-17T00:00:00Z",
+                "number": 159
+            },
+            "submissionStatistics": {
+                "correctCount": 2963,
+                "failureCount": 1011
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "node-depths",
+            "name": "Node Depths",
+            "category": "Binary Trees",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 352
+            },
+            "submissionStatistics": {
+                "correctCount": 36508,
+                "failureCount": 16721
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "node-swap",
+            "name": "Node Swap",
+            "category": "Linked Lists",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-14T00:00:00Z",
+                "number": 265
+            },
+            "submissionStatistics": {
+                "correctCount": 1432,
+                "failureCount": 619
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "non-attacking-queens",
+            "name": "Non-Attacking Queens",
+            "category": "Recursion",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-14T00:00:00Z",
+                "number": 621
+            },
+            "submissionStatistics": {
+                "correctCount": 852,
+                "failureCount": 353
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "non-constructible-change",
+            "name": "Non-Constructible Change",
+            "category": "Arrays",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-08T00:00:00Z",
+                "number": 478
+            },
+            "submissionStatistics": {
+                "correctCount": 20116,
+                "failureCount": 11597
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "nth-fibonacci",
+            "name": "Nth Fibonacci",
+            "category": "Recursion",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 601
+            },
+            "submissionStatistics": {
+                "correctCount": 64980,
+                "failureCount": 38861
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "number-of-binary-tree-topologies",
+            "name": "Number Of Binary Tree Topologies",
+            "category": "Recursion",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 612
+            },
+            "submissionStatistics": {
+                "correctCount": 3263,
+                "failureCount": 1194
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "number-of-ways-to-make-change",
+            "name": "Number Of Ways To Make Change",
+            "category": "Dynamic Programming",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 652
+            },
+            "submissionStatistics": {
+                "correctCount": 19484,
+                "failureCount": 8386
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "number-of-ways-to-traverse-graph",
+            "name": "Number Of Ways To Traverse Graph",
+            "category": "Dynamic Programming",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-20T00:00:00Z",
+                "number": 667
+            },
+            "submissionStatistics": {
+                "correctCount": 7499,
+                "failureCount": 3397
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "numbers-in-pi",
+            "name": "Numbers In Pi",
+            "category": "Dynamic Programming",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-09-01T00:00:00Z",
+                "number": 664
+            },
+            "submissionStatistics": {
+                "correctCount": 4985,
+                "failureCount": 2267
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "palindrome-check",
+            "name": "Palindrome Check",
+            "category": "Strings",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 1
+            },
+            "submissionStatistics": {
+                "correctCount": 44551,
+                "failureCount": 17735
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "palindrome-partitioning-min-cuts",
+            "name": "Palindrome Partitioning Min Cuts",
+            "category": "Dynamic Programming",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 662
+            },
+            "submissionStatistics": {
+                "correctCount": 3279,
+                "failureCount": 1271
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "pattern-matcher",
+            "name": "Pattern Matcher",
+            "category": "Strings",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 6
+            },
+            "submissionStatistics": {
+                "correctCount": 3429,
+                "failureCount": 1912
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "permutations",
+            "name": "Permutations",
+            "category": "Recursion",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 602
+            },
+            "submissionStatistics": {
+                "correctCount": 15736,
+                "failureCount": 7062
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "phone-number-mnemonics",
+            "name": "Phone Number Mnemonics",
+            "category": "Recursion",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-19T00:00:00Z",
+                "number": 616
+            },
+            "submissionStatistics": {
+                "correctCount": 5522,
+                "failureCount": 2836
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "powerset",
+            "name": "Powerset",
+            "category": "Recursion",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 603
+            },
+            "submissionStatistics": {
+                "correctCount": 14395,
+                "failureCount": 5641
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "product-sum",
+            "name": "Product Sum",
+            "category": "Recursion",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-09-01T00:00:00Z",
+                "number": 614
+            },
+            "submissionStatistics": {
+                "correctCount": 31233,
+                "failureCount": 14222
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "quick-sort",
+            "name": "Quick Sort",
+            "category": "Sorting",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 55
+            },
+            "submissionStatistics": {
+                "correctCount": 10543,
+                "failureCount": 4570
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "quickselect",
+            "name": "Quickselect",
+            "category": "Searching",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 756
+            },
+            "submissionStatistics": {
+                "correctCount": 5983,
+                "failureCount": 2382
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "radix-sort",
+            "name": "Radix Sort",
+            "category": "Sorting",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-14T00:00:00Z",
+                "number": 59
+            },
+            "submissionStatistics": {
+                "correctCount": 1050,
+                "failureCount": 496
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "rearrange-linked-list",
+            "name": "Rearrange Linked List",
+            "category": "Linked Lists",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 260
+            },
+            "submissionStatistics": {
+                "correctCount": 2816,
+                "failureCount": 1515
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "reconstruct-bst",
+            "name": "Reconstruct BST",
+            "category": "Binary Search Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-20T00:00:00Z",
+                "number": 409
+            },
+            "submissionStatistics": {
+                "correctCount": 6620,
+                "failureCount": 3340
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "rectangle-mania",
+            "name": "Rectangle Mania",
+            "category": "Graphs",
+            "difficulty": 4,
+            "version": 1,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-09-13T00:00:00Z",
+                "number": 107
+            },
+            "submissionStatistics": {
+                "correctCount": 2853,
+                "failureCount": 1111
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "remove-duplicates-from-linked-list",
+            "name": "Remove Duplicates From Linked List",
+            "category": "Linked Lists",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-31T00:00:00Z",
+                "number": 262
+            },
+            "submissionStatistics": {
+                "correctCount": 18134,
+                "failureCount": 9999
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "remove-islands",
+            "name": "Remove Islands",
+            "category": "Graphs",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-12-23T00:00:00Z",
+                "number": 108
+            },
+            "submissionStatistics": {
+                "correctCount": 6890,
+                "failureCount": 3827
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "remove-kth-node-from-end",
+            "name": "Remove Kth Node From End",
+            "category": "Linked Lists",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 254
+            },
+            "submissionStatistics": {
+                "correctCount": 16098,
+                "failureCount": 10277
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "reverse-linked-list",
+            "name": "Reverse Linked List",
+            "category": "Linked Lists",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-09-01T00:00:00Z",
+                "number": 257
+            },
+            "submissionStatistics": {
+                "correctCount": 15100,
+                "failureCount": 5794
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "reverse-words-in-string",
+            "name": "Reverse Words In String",
+            "category": "Strings",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-31T00:00:00Z",
+                "number": 12
+            },
+            "submissionStatistics": {
+                "correctCount": 7828,
+                "failureCount": 4270
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "right-sibling-tree",
+            "name": "Right Sibling Tree",
+            "category": "Binary Trees",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-03-29T00:00:00Z",
+                "number": 358
+            },
+            "submissionStatistics": {
+                "correctCount": 3417,
+                "failureCount": 1304
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "right-smaller-than",
+            "name": "Right Smaller Than",
+            "category": "Binary Search Trees",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 407
+            },
+            "submissionStatistics": {
+                "correctCount": 4516,
+                "failureCount": 2070
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "river-sizes",
+            "name": "River Sizes",
+            "category": "Graphs",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 104
+            },
+            "submissionStatistics": {
+                "correctCount": 21051,
+                "failureCount": 15498
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "run-length-encoding",
+            "name": "Run-Length Encoding",
+            "category": "Strings",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 9
+            },
+            "submissionStatistics": {
+                "correctCount": 19207,
+                "failureCount": 12383
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "same-bsts",
+            "name": "Same BSTs",
+            "category": "Binary Search Trees",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-11-21T00:00:00Z",
+                "number": 405
+            },
+            "submissionStatistics": {
+                "correctCount": 8889,
+                "failureCount": 4109
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "search-for-range",
+            "name": "Search For Range",
+            "category": "Searching",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 755
+            },
+            "submissionStatistics": {
+                "correctCount": 6586,
+                "failureCount": 2632
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "search-in-sorted-matrix",
+            "name": "Search In Sorted Matrix",
+            "category": "Searching",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 753
+            },
+            "submissionStatistics": {
+                "correctCount": 14333,
+                "failureCount": 5619
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "selection-sort",
+            "name": "Selection Sort",
+            "category": "Sorting",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 53
+            },
+            "submissionStatistics": {
+                "correctCount": 25669,
+                "failureCount": 9875
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "shift-linked-list",
+            "name": "Shift Linked List",
+            "category": "Linked Lists",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 259
+            },
+            "submissionStatistics": {
+                "correctCount": 8561,
+                "failureCount": 6392
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "shifted-binary-search",
+            "name": "Shifted Binary Search",
+            "category": "Searching",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 754
+            },
+            "submissionStatistics": {
+                "correctCount": 7285,
+                "failureCount": 3143
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "shorten-path",
+            "name": "Shorten Path",
+            "category": "Stacks",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 154
+            },
+            "submissionStatistics": {
+                "correctCount": 4412,
+                "failureCount": 2408
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "single-cycle-check",
+            "name": "Single Cycle Check",
+            "category": "Graphs",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-05-04T00:00:00Z",
+                "number": 102
+            },
+            "submissionStatistics": {
+                "correctCount": 18821,
+                "failureCount": 9943
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "smallest-difference",
+            "name": "Smallest Difference",
+            "category": "Arrays",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 455
+            },
+            "submissionStatistics": {
+                "correctCount": 39456,
+                "failureCount": 18638
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "smallest-substring-containing",
+            "name": "Smallest Substring Containing",
+            "category": "Strings",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-11-21T00:00:00Z",
+                "number": 8
+            },
+            "submissionStatistics": {
+                "correctCount": 3072,
+                "failureCount": 1501
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "solve-sudoku",
+            "name": "Solve Sudoku",
+            "category": "Recursion",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-20T00:00:00Z",
+                "number": 618
+            },
+            "submissionStatistics": {
+                "correctCount": 1650,
+                "failureCount": 818
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "sort-k-sorted-array",
+            "name": "Sort K-Sorted Array",
+            "category": "Heaps",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-19T00:00:00Z",
+                "number": 304
+            },
+            "submissionStatistics": {
+                "correctCount": 2502,
+                "failureCount": 1304
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "sort-stack",
+            "name": "Sort Stack",
+            "category": "Stacks",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-14T00:00:00Z",
+                "number": 158
+            },
+            "submissionStatistics": {
+                "correctCount": 3531,
+                "failureCount": 1524
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "sorted-squared-array",
+            "name": "Sorted Squared Array",
+            "category": "Arrays",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-03-02T00:00:00Z",
+                "number": 474
+            },
+            "submissionStatistics": {
+                "correctCount": 32357,
+                "failureCount": 21039
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "spiral-traverse",
+            "name": "Spiral Traverse",
+            "category": "Arrays",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-03-29T00:00:00Z",
+                "number": 468
+            },
+            "submissionStatistics": {
+                "correctCount": 24232,
+                "failureCount": 14535
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "square-of-zeroes",
+            "name": "Square of Zeroes",
+            "category": "Dynamic Programming",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 666
+            },
+            "submissionStatistics": {
+                "correctCount": 2463,
+                "failureCount": 1156
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "staircase-traversal",
+            "name": "Staircase Traversal",
+            "category": "Recursion",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-08T00:00:00Z",
+                "number": 617
+            },
+            "submissionStatistics": {
+                "correctCount": 6667,
+                "failureCount": 3226
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "subarray-sort",
+            "name": "Subarray Sort",
+            "category": "Arrays",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 459
+            },
+            "submissionStatistics": {
+                "correctCount": 12686,
+                "failureCount": 6326
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "suffix-trie-construction",
+            "name": "Suffix Trie Construction",
+            "category": "Tries",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 201
+            },
+            "submissionStatistics": {
+                "correctCount": 8716,
+                "failureCount": 3677
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "sum-of-linked-lists",
+            "name": "Sum of Linked Lists",
+            "category": "Linked Lists",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-08T00:00:00Z",
+                "number": 263
+            },
+            "submissionStatistics": {
+                "correctCount": 7532,
+                "failureCount": 3909
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "sunset-views",
+            "name": "Sunset Views",
+            "category": "Stacks",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-12-23T00:00:00Z",
+                "number": 155
+            },
+            "submissionStatistics": {
+                "correctCount": 7327,
+                "failureCount": 3968
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "tandem-bicycle",
+            "name": "Tandem Bicycle",
+            "category": "Greedy Algorithms",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 555
+            },
+            "submissionStatistics": {
+                "correctCount": 9895,
+                "failureCount": 4735
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "task-assignment",
+            "name": "Task Assignment",
+            "category": "Greedy Algorithms",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-19T00:00:00Z",
+                "number": 552
+            },
+            "submissionStatistics": {
+                "correctCount": 5603,
+                "failureCount": 2885
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "three-number-sort",
+            "name": "Three Number Sort",
+            "category": "Sorting",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 57
+            },
+            "submissionStatistics": {
+                "correctCount": 8985,
+                "failureCount": 4984
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "three-number-sum",
+            "name": "Three Number Sum",
+            "category": "Arrays",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 452
+            },
+            "submissionStatistics": {
+                "correctCount": 43643,
+                "failureCount": 23184
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "topological-sort",
+            "name": "Topological Sort",
+            "category": "Famous Algorithms",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2018-10-20T00:00:00Z",
+                "number": 507
+            },
+            "submissionStatistics": {
+                "correctCount": 6162,
+                "failureCount": 3264
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "tournament-winner",
+            "name": "Tournament Winner",
+            "category": "Arrays",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-02-08T00:00:00Z",
+                "number": 477
+            },
+            "submissionStatistics": {
+                "correctCount": 26557,
+                "failureCount": 15691
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "two-number-sum",
+            "name": "Two Number Sum",
+            "category": "Arrays",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 451
+            },
+            "submissionStatistics": {
+                "correctCount": 101824,
+                "failureCount": 76160
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "two-edge-connected-graph",
+            "name": "Two-Edge-Connected Graph",
+            "category": "Graphs",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-05-17T00:00:00Z",
+                "number": 111
+            },
+            "submissionStatistics": {
+                "correctCount": 435,
+                "failureCount": 199
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "underscorify-substring",
+            "name": "Underscorify Substring",
+            "category": "Strings",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 5
+            },
+            "submissionStatistics": {
+                "correctCount": 4432,
+                "failureCount": 2301
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "valid-ip-addresses",
+            "name": "Valid IP Addresses",
+            "category": "Strings",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-12-23T00:00:00Z",
+                "number": 11
+            },
+            "submissionStatistics": {
+                "correctCount": 5628,
+                "failureCount": 3230
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "valid-starting-city",
+            "name": "Valid Starting City",
+            "category": "Greedy Algorithms",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-01-31T00:00:00Z",
+                "number": 553
+            },
+            "submissionStatistics": {
+                "correctCount": 4955,
+                "failureCount": 2667
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "validate-bst",
+            "name": "Validate BST",
+            "category": "Binary Search Trees",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 403
+            },
+            "submissionStatistics": {
+                "correctCount": 22542,
+                "failureCount": 13109
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "validate-subsequence",
+            "name": "Validate Subsequence",
+            "category": "Arrays",
+            "difficulty": 1,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "completed": false,
+                "date": "2020-05-11T00:00:00Z",
+                "number": 470
+            },
+            "submissionStatistics": {
+                "correctCount": 79021,
+                "failureCount": 77691
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "validate-three-nodes",
+            "name": "Validate Three Nodes",
+            "category": "Binary Search Trees",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-04-01T00:00:00Z",
+                "number": 410
+            },
+            "submissionStatistics": {
+                "correctCount": 2954,
+                "failureCount": 1291
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "water-area",
+            "name": "Water Area",
+            "category": "Dynamic Programming",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "number": 658
+            },
+            "submissionStatistics": {
+                "correctCount": 9315,
+                "failureCount": 3940
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "waterfall-streams",
+            "name": "Waterfall Streams",
+            "category": "Arrays",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2020-11-16T00:00:00Z",
+                "number": 472
+            },
+            "submissionStatistics": {
+                "correctCount": 1813,
+                "failureCount": 1144
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "youngest-common-ancestor",
+            "name": "Youngest Common Ancestor",
+            "category": "Graphs",
+            "difficulty": 2,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-05-04T00:00:00Z",
+                "number": 106
+            },
+            "submissionStatistics": {
+                "correctCount": 13223,
+                "failureCount": 5826
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "zigzag-traverse",
+            "name": "Zigzag Traverse",
+            "category": "Arrays",
+            "difficulty": 3,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2019-09-01T00:00:00Z",
+                "number": 463
+            },
+            "submissionStatistics": {
+                "correctCount": 8094,
+                "failureCount": 3637
+            },
+            "video": {
+                "instructor": "Clément Mihailescu"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        },
+        {
+            "uid": "zip-linked-list",
+            "name": "Zip Linked List",
+            "category": "Linked Lists",
+            "difficulty": 4,
+            "version": 0,
+            "kind": "JSON",
+            "available": true,
+            "metadata": {
+                "date": "2021-03-02T00:00:00Z",
+                "number": 264
+            },
+            "submissionStatistics": {
+                "correctCount": 1302,
+                "failureCount": 663
+            },
+            "video": {
+                "instructor": "Tim Ruscica"
+            },
+            "languagesSupported": [
+                "cpp",
+                "csharp",
+                "go",
+                "java",
+                "javascript",
+                "kotlin",
+                "swift",
+                "python",
+                "typescript"
+            ]
+        }
+    ]
+}
